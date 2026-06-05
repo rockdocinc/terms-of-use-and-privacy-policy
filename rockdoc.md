@@ -214,4 +214,4 @@ By clicking "I Accept", you acknowledge that you are entering into a legally bin
 
 A dedicated Travel Medical Professional will be assigned once you have completed your booking. If the selected preferred timeslot becomes unavailable, a Customer Success representative will contact you with the closest available appointment. Disclaimer: Please note your actual appointment may differ from selected preferred date and time.
 
-*Last Updated: 2025-12-04*
+*Last Updated: 2026-06-05*
